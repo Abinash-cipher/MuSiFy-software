@@ -1,4 +1,4 @@
 # MuSiFy-software
 This is my minor project .
 <br>
-Author - ABinash Samal
+Author - ABinash Rath
